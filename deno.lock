@@ -1,0 +1,16 @@
+{
+  "version": "2",
+  "remote": {},
+  "npm": {
+    "specifiers": {
+      "crypto-js": "crypto-js@4.1.1",
+      "crypto-js@4.1.1": "crypto-js@4.1.1"
+    },
+    "packages": {
+      "crypto-js@4.1.1": {
+        "integrity": "sha512-o2JlM7ydqd3Qk9CA0L4NL6mTzU2sdx96a+oOfPu8Mkl/PK51vSyoi8/rQ8NknZtk44vq15lmhAj9CIAGwgeWKw==",
+        "dependencies": {}
+      }
+    }
+  }
+}
